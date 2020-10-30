@@ -1,0 +1,242 @@
+# Generic
+unknown=ที่ไม่รู้จัก
+continue=ทำรายการต่อ
+confirm=ยืนยัน
+
+status=ฐานะ
+scheduled=กาลส่ง
+
+total.bitcoin=รวมยอดบิทคอยน์
+total.fiat=รวมยอดเงินประมาณ
+
+thankyou=ขอบพระคุณอย่างสูง
+approx.short=ประมาณ
+BTC=BTC
+close=ปิด
+
+error.title=คำเตือน
+warning.title=สังเกต
+
+copy.to.clipboard=คัดลอกไปที่คลิปบอร์ด
+
+javascript.disabled.surprised.1=แปลกใจมาก
+javascript.disabled.surprised.2=ดูเหมือนว่าจาวาสคริปต์ปิดการใช้งาน
+javascript.disabled.enable.1=ขอแนะนำเปิดการใช้งานในเว๊ปไซต์นี้
+javascript.disabled.enable.2=กดปุ่มนี้เพื่อจะได้รู้ว่ามีไว้ทำไม
+javascript.disabled.getrid.1=ถ้าจะลบข้อความและจะทำการต่อแบบไม่มี จาวาสคริปต์.
+javascript.disabled.getrid.2=กดปุ่มนี้เพื่อที่ไม่ต้องใช้จาวาสคริปต์
+
+start.new.mix=ใหม่
+back.to.mix=กลับมารวมกัน
+help.center=ช่วย (อังกฤษ)
+
+entry.page.title=Anonymixer - ไม่ระบุชื่อ รวมกัน ของ บิทคอยท์
+entry.page.description=คนนิรนามและไม่มีตัวตนจากการตรวจสอบจากบล็อกเซน ส่วนบิทคอยท์ มิคเซอร์ ความก้าวหน้าทันสมัยและปลอดภัยที่สุด
+
+#############################################################################
+## Front Page Marketing
+#############################################################################
+marketing.hero.header.1=บิทคอยท์รวมกัน
+marketing.hero.header.2=พวกเราจะทำบิทคอยท์ของคุณให้เป็นนิรนามหรือไม่ระบุชื่อ
+
+marketing.hero.feature.1.title=ไม่มีขั้นต่ำ
+marketing.hero.feature.1.description=รวมเพียง1ชาโตซิหรือ 0.00000001 BTC
+
+marketing.hero.feature.2.title=ไม่มีการบันทึกข้อมูล
+marketing.hero.feature.2.description=เราจะไม่มีการเก็บบันทึกข้อมูลของคุณ100%
+
+marketing.hero.feature.3.title=ค่าธรรมเนียมขั้นต่ำ
+marketing.hero.feature.3.description=เราเก็บเงินเพียง1-2% ในการรวมกันบิทคอยท์
+
+marketing.cloud.title=หลบเลี่ยงการตรวจตราบล็อกเซน
+markting.cloud.para.1=บริษัทของChainalysisนำข้อมูลการชื้อขายมาจากบล็อกเซนและส่งต่อให้รัฐบาล
+markting.cloud.para.2=เป็นเวลาหลายปีที่บริษัทเหล่านี้ใช้เงินหลายล้านบาทที่จะสร้างโปรแกรมเพื่อจะติดตามบิทคอยท์และผู้ใช้บิทคอยท์
+markting.cloud.para.3=กับ Anonymixer, สามารถช่วยคุณป้องกันข้อมูล และหลีกเลี่ยงการตรวจสอบได้และไม่มีใครสามารถตรวจสอบได้เลยว่าคุณเคยใช้ การรวมบิทคอยท์
+
+marketing.explanation.title.1=การสื่อสารส่งผ่านบิทคอยท์
+marketing.explanation.para.1=อลิส ต้องการจ่ายเงินให้ บอบ 0.5 BTC  มาจากชายนิรนาม
+marketing.explanation.para.2=อลิส โอนเงินจำนวน 0.2 BTC ตามด้วย 0.3 BTC และฝากเงินไว้กับAnonymixer
+marketing.explanation.para.3=และ Anonymixer โอนเงินให้บอบ ในจำนวน 0.5 BTC และมาจากคนละกระเป๋าและการโอนเงินไม่เกียวข้องกับของอลิสเลย
+
+marketing.explanation.title.2=การแยกออกของบล็อคเซนตอนนี้ใช้ไม่ได้
+
+marketing.explanation.para.4=<strong>จำนวนต่างกัน</strong> :- อลิส โอนเงินสองรอบไปยังสองที่อยู่ของบิทคอยท์.และการโอนสองครั้งมีจำนวนคล้ายๆ 0.5 BTC และบอบก็ได้รับเงินจำนวนนั้น
+marketing.explanation.para.5=<strong>เวลาต่างกัน</strong> :- หลังจากที่อลิสเลือกตอนการแยกโอนเรียบร้อยแล้วและอลิสก็เลือกเวลาโอนให้บอบที่จะได้รับยอดตอนไหนก็ได้
+marketing.explanation.para.6=<strong>กระเป๋าเงินต่างกัน</strong> :- กระเป๋าเงินที่อลิสส่งบิทคอยท์ไป คนละกระเป๋าเงินที่ส่งให้บอบ
+marketing.explanation.para.7=การโอนเงินดูเหมือนเป็นการโอนแบบธรรมดา ระหว่างคนทีใช้บล็อกเซน ไม่มีใครสามารถตรวจสอบได้เลยว่าการโอนรวมยอดบิทคอยท์เคยใช้มาก่อน
+
+marketing.explanation.anim.sender=Original Sender (Alice)
+marketing.explanation.anim.recipient=Recipient (Bob)
+marketing.explanation.anim.deposit.wallet=กระเป๋าเงินฝาก
+marketing.explanation.anim.sending.wallet=กระเป๋าเงินส่งออก
+marketing.explanation.anim.coin.1=0.2 BTC
+marketing.explanation.anim.coin.2=0.3 BTC
+marketing.explanation.anim.coin.3=0.5 BTC
+
+marketing.features.major.1.title=ควบคุมการรวมกัน
+marketing.features.major.1.description.list.1=ที่อยู่ส่งออก ส่งได้สูงสุดจนถึง 20
+marketing.features.major.1.description.list.2=ที่อยู่ ฝาก ได้สูงสุดถึง20
+marketing.features.major.1.description.list.3=ยืดระยะเวลาออกในการฝาก
+marketing.features.major.1.description.list.4=แยกระยะเวลาในการส่งออก
+marketing.features.major.1.description.para.1=ค่าธรรมเนียมเราจะบอกคุณล่วงหน้าก่อนที่จะส่งบิทคอยท์ไปที่บิทคอยท์เราไม่มีค่าธรรมเนียมแอบแฝง
+
+marketing.features.major.2.title=จดหมายการรับรอง
+marketing.features.major.2.description.para.1=เรามีจดหมายการรับรองอยู่ใน TEXT และ PDF. เราเช็นจดหมายด้วยตัวเองเพื่อแสดงว่าจดหมายรับรองมาจากเราจริงๆ
+marketing.features.major.2.description.para.2=ถ้าเราเอาเงินพวกคุณหนีไปทุกอย่างก็จะเป็นผลเสียสำหรับเราจะทำลายงานและชื่อเสียงของพวกเราเอง และก็จะไม่มีใครมาใช้บริการเราอีกเลย
+
+marketing.features.major.3.title=ช่วยเหลือ และ ฝ่ายประชาสัมพันธ์
+marketing.features.major.3.description.para.1=ถ้าคุณมีปัญหาหรือต้องการให้เราช่วย ให้ส่งอีเมล์หาเรา เราจะตอบอีเมล์กลับหาคุณให้เร็วที่สุด อีเมล์ <a href="mailto:support@anonymixer.com">support@anonymixer.com</a>
+marketing.features.major.3.description.para.2=คุยกับเราได้ทาง<a href="https://bitcointalk.org/index.php?topic=5269927.0" target="_blank" rel="noreferrer">บิทคอยท์ ท็อค</a>และ<a href="https://twitter.com/anonymixer" target="_blank" rel="noreferrer">ทวิตเตอร์</a>
+marketing.features.major.3.description.para.3=ทักทายหาเราได้
+
+marketing.features.minor.1.title=ทอ
+marketing.features.minor.1.description=ที่อยู่ต้นหอมใช้ได้ 
+
+marketing.features.minor.2.title=ไม่มีJS = ไม่เป็นไร
+marketing.features.minor.2.description=ทำงานจะมีหรือไม่มี  จาวาสคริปต์
+
+marketing.features.minor.3.title=ไม่มี CDN
+marketing.features.minor.3.description=พวกเราไม่ใช้ CDN หรือ GOOGLE ANALYTICS <a href="https://bitcointalk.org/index.php?topic=5247838" target="_blank" rel="noreferrer">ค้นหาว่าทำไม</a>
+
+marketing.features.minor.4.title=การเข้าหารหัสยากมากๆ
+marketing.features.minor.4.description=พวกเรามีคะแนน ของ <a href="https://www.ssllabs.com/ssltest/analyze.html?d=anonymixer.com" target="_blank" rel="noreferrer">SSL LABS เกรด A</a>
+
+marketing.features.minor.5.title=โทรศัพท์เป็นมิตร
+marketing.features.minor.5.description=ใช้ได้กับทุกโทรศัพท์และไอพาด
+
+marketing.features.minor.6.title=ไม่มีHTTP
+marketing.features.minor.6.description=เราบล็อกHTTP. ไม่สามารถเข้าหารหัสเราได้
+
+marketing.mix.change.coins.title=เอาวาซาบิมารวมกับเหรียญ
+marketing.mix.change.coins.para.1=รวมความปลอดภัย ขยะอันตราย เปลี่ยนเหรียญ มาจาก วาซาบิ และ เหรียญ ซามูไร เข้าร่วมด้วย
+marketing.mix.change.coins.para.2=รวบรวมการเปลี่ยน ส่งออก เป็น เหรียญเดียวกัน
+
+marketing.find.out.more=ค้นหาเพิ่มเติมได้ที่นี่
+
+#############################################################################
+## Footer
+#############################################################################
+
+footer.hot.maximum=ส่งได้สูงสุดแบบร้อนแรง
+footer.cold.maximum=ส่งได้สูงสุดแบบเย็นๆ
+footer.service.status=ศูนย์ตรวจสอบ
+
+footer.links.title=ลิงค์
+footer.links.pgpkey=พีจีพี กุญแจ
+footer.links.faq=คำถามที่พบบ่อย
+footer.links.canary=คาแนรี่
+footer.links.email=อีเมล
+
+footer.links.clearnet.address=ที่อยู่ เคลียร์เน็ท
+footer.links.onion.address=ที่อยู่หัวหอม
+footer.copyright=สงวนลิขสิทธิ์ © {0} <a href="/">Anonymixer</a>
+
+#############################################################################
+## Outputs Screen
+#############################################################################
+outputs.pretitle=เริ่มบิทคอยน์ใหม่ รวมกัน
+outputs.title=กดส่งออกที่อยู่นี้
+
+address.receiving.bitcoin=ที่อยู่ที่ทำให้บิทคอยท์สะอาดเอี่ยม
+
+valid.bitcoin.address=ถูกต้องบิตคอยน์ที่อยู่
+invalid.bitcoin.address=ผิดบิตคอยน์ที่อยู่
+missing.output.address=กรุณากดใส่ที่อยู่นี้
+duplicate.output.address=อย่ากดที่อยู่ส่งออกซ้ำกัน
+update.this.screen=กดอัพเดทหน้าจอนี้
+remove.address=ลบออก
+
+add.output.address=กดส่งเพิ่มที่อยู่นี้
+
+missing.output.amount=กรุณาระบุจำนวนเงิน
+amount.too.big=คุณสามารถส่งเงินได้ในจำนวนสูงสุด ได้เท่านี้ {0} BTC. ได้โปรดลดจำนวนเงินลง
+
+menu.outputs=ส่งออก
+menu.output.address=ที่อยู่ส่งออก
+menu.processing=รวมกัน
+
+output.address=ที่อยู่ส่งออก
+output.address.plural=ที่อยู่ส่งออก
+
+show.percentage.distributions=แสดงการแบ่งแยกเปอร์เซ็นต์
+percentage.distribution=การแบ่งแยกเปอร์เช็ตน์
+amount.btc=จำนวน (BTC)
+outputs.already.confirmed=Outputs are already Confirmed. Can not add or change them.
+#############################################################################
+
+#############################################################################
+## Confirm Screen
+#############################################################################
+confirm.pretitle=ตรวจสอบผลรวมของคุณอีกครั้ง
+confirm.title=ยืนยัน
+breakdown.costs.title=ภาพรวมค่าใช้จ่าย
+breakdown.costs.detail=กรุณาตรวจสอบข้อมูลค่าใช้จ่ายทั้งหมดก่อนหน้านี้ จำนวนที่คุณจะส่งรวมกันทั้งหมดอยู่ข้างล่างนี้ถ้าคุณพอใจกับข้อมูลกรุณากดปุ่มเพื่อยืนยัน
+total.output=จำนวนส่งออก
+service.fees=ค่าธรรมเนียม
+confirm.delay=ล่าช้านาที
+will.receive=จะได้รับ {0} BTC
+we.take=We take {0} BTC
+
+bitcoin.network.fee=ค่าธรรมเนียมเครือข่ายบิทคอยน์
+mining.fees.are=ค่าธรรมเนียมการขุด
+
+grand.total=รวมทั้งหมด
+grand.total.detail=รวมจำนวนทั้งหมดของบิทคอยน์ที่คุณต้องการส่ง
+
+enter.valid.number=กรุณาใส่ข้อมูลให้ถูกต้อง
+
+anonymixer.fee=ค่าธรรมเนียมของเรา
+
+warning.quote.expired=ข้อมูลอ้างอิงที่ให้ก่อนหน้านี้หมดเวลาการใช้งาน. กรุณาตรวจสอบค่าธรรมเนียมการส่งข้างล่างอีกครั้ง และ กดปุ่มเพื่อยืนยัน
+warning.quote.delaysNotMatching=ล่าช้าค่าการเปลี่ยนแปลง กรุณาตรวจสอบค่าธรรมเนียมการส่งข้างล่างอีกครั้ง และ กดปุ่มเพื่อยืนยัน
+#############################################################################
+
+#############################################################################
+## Processing Screen
+#############################################################################
+processing.pretitle=รวมการแลกเปลี่ยนของคุณ 
+processing.title=แลกเปลี่ยน
+
+processing.payment.waiting=รอการชำระเงินจำนวน
+processing.payment.received=ได้รับการชำระเงิน
+
+letter.of.guarantee=จดหมายการรับรอง
+total.bitcoin.received=จำนวนบิทคอยน์ที่ได้รับ
+download.pdf=ดาวน์โหลด PDF
+download.text=ดาวน์โหลดข้อมูล
+
+confirmed.payments=ยืนยันการชำระเงิน
+incoming.payments=จำนวนเงินที่กำลังจะเข้ามา
+
+time.day.single=วัน
+time.day.plural=วัน
+time.hour.single=ชั่วโมง
+time.hour.plural=ชั่วโมง
+time.minute.single=นาที
+time.minute.plural=นาที
+time.second.single=วินาที
+time.second.plural=วินาที
+time.ago=ผ่านแล้ว
+time.now=ตอนนี้
+time.not.yet.scheduled=Not yet Scheduled
+
+processing.please.now.send=กรุณากดส่งตอนนี้
+processing.all.btc.received=ได้รับบิทคอยน์ทั้งหมดแล้ว
+
+processing.add.deposit.address=เพิ่มที่อยู่การฝาก
+
+digitally.signed.hot=ดิจิตอล เซ็นต์ โดย กระเป๋า ร้อนแรง
+digitally.signed.cold=ดิจิตอล เซ็นต์ โดย กระเป๋า เย็นฉ่ำ
+transaction.broadcast=เผยแพร่การชื้อขาย
+outgoing.transaction=การชื้อขายออกไปแล้ว
+
+mixer.deposit.remove=ลบที่อยู่การฝากออก
+
+mixer.deposit.received=ได้รับ
+mixer.deposit.confirmations=การยืนยัน
+
+payment.received=ได้รับการชำระเงิน
+bitcoin.transaction.id=รายการชื้อขายบิทคอยน์ ไอดี
+mixer.deposit.address=ที่อยู่การฝาก
+mixer.deposit.amount=จำนวนรวมฝาก
+
