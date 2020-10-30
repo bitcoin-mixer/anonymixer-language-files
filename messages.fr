@@ -1,0 +1,247 @@
+# Generic
+unknown=Inconnue
+continue=Continuer
+confirm=Confirmer
+
+status=Statut
+scheduled=Programmé
+
+total.bitcoin=Total Bitcoin
+total.fiat=Total Fiat (Approximatif)
+
+thankyou=Je vous remercie
+approx.short=Environ
+BTC=BTC
+close=Fermer
+
+error.title=Avertissement:
+warning.title=Remarque
+
+copy.to.clipboard=Copier dans le presse-papier
+
+javascript.disabled.surprised.1=tu es sérieux?
+javascript.disabled.surprised.2=Il semble que vous ayez désactivé JavaScript!
+javascript.disabled.enable.1=Nous vous recommandons de l''activer pour ce site.
+javascript.disabled.enable.2=Cliquez ici pour découvrir pourquoi
+javascript.disabled.getrid.1=Pour se débarrasser de ce message et continuer sans JavaScript,
+javascript.disabled.getrid.2=Cliquez ici pour une version sans JavaScript 
+
+start.new.mix=Démarrez un nouveau Mélanger!
+back.to.mix=Retour au Mélanger
+help.center=Centre d''aide (Anglais)
+
+entry.page.title=Anonymixer - Mélangeur Bitcoin Anonyme
+entry.page.description=Restez anonyme et invisible de la surveillance Blockchain avec le mélangeur Bitcoin le plus avancé.
+
+#############################################################################
+## Front Page Marketing
+#############################################################################
+marketing.hero.header.1=Mélangeur Bitcoin Anonyme
+marketing.hero.header.2=Nous rendons votre Bitcoin anonyme
+
+marketing.hero.feature.1.title=Pas de minimum
+marketing.hero.feature.1.description=Mélangez juste 1 Satoshi ou 0,00000001 BTC
+
+marketing.hero.feature.2.title=Pas de journaux
+marketing.hero.feature.2.description=Nous avons une politique de 100% de non-journalisation
+
+marketing.hero.feature.3.title=Frais bas
+marketing.hero.feature.3.description=Nous facturons seulement 1 à 2% pour mélanger Bitcoin
+
+marketing.cloud.title=Battre la surveillance de la blockchain
+markting.cloud.para.1=Des entreprises comme Chainalysis envahissent votre vie privée en fournissant des données et des analyses de surveillance de la blockchain aux gouvernements, aux bourses et aux institutions financières.
+markting.cloud.para.2=Pendant des années, ces entreprises n''ont épargné aucun logiciel de perfectionnement de dépenses pour suivre les utilisateurs de Bitcoin et Bitcoin, transformant la surveillance de masse en un art.
+markting.cloud.para.3=Avec Anonymixer, vous pouvez protéger à 100% votre vie privée et échapper à cette surveillance intrusive, même dans la mesure où personne ne pourra dire que vous avez utilisé un mélangeur Bitcoin en premier lieu.
+
+marketing.explanation.title.1=Téléportation Bitcoin
+marketing.explanation.para.1=Alice veut payer Bob 0,5 BTC, de manière anonyme.
+marketing.explanation.para.2=Alice envoie un paiement de 0,2 BTC suivi de 0,3 BTC au portefeuille de dépôt d''Anonymixer.
+marketing.explanation.para.3=Ensuite, Anonymixer envoie Bob 0,5 BTC à partir d''un portefeuille distinct qui est entièrement déconnecté des paiements d''Alice.
+
+marketing.explanation.title.2=L''analyse de la blockchain est rendue inutile
+
+marketing.explanation.para.4=<strong>Décorrélation du montant</strong> :- Alice a effectué deux paiements Bitcoin réguliers à deux adresses Bitcoin anonymes, dont aucune ne peut être corrélée avec le 0,5 BTC Bob finalement reçu.
+marketing.explanation.para.5=<strong>Décorrélation temporelle</strong> :- Alice a choisi exactement quand chacun de ses dépôts individuels a été envoyé. Alice a également choisi exactement quand Bob a finalement été payé.
+marketing.explanation.para.6=<strong>décorrélation de portefeuille</strong> :- Le portefeuille (ou cluster) auquel Alice lui a envoyé Bitcoin est lui-même totalement déconnecté du portefeuille qui a payé Bob.
+marketing.explanation.para.7=Toutes les transactions ressemblent à des paiements réguliers entre les utilisateurs de la Blockchain. Personne ne peut dire qu''un mélangeur Bitcoin a été utilisé.
+
+marketing.explanation.anim.sender=Expéditeur d''origine (Alice)
+marketing.explanation.anim.recipient=Destinataire (Bob)
+marketing.explanation.anim.deposit.wallet=Portefeuille de dépôt
+marketing.explanation.anim.sending.wallet=Envoi de portefeuille
+marketing.explanation.anim.coin.1=0,2 BTC
+marketing.explanation.anim.coin.2=0,3 BTC
+marketing.explanation.anim.coin.3=0,5 BTC
+
+marketing.features.major.1.title=Contrôle complet du mixage
+marketing.features.major.1.description.list.1=Jusqu''à 20 adresses de sortie
+marketing.features.major.1.description.list.2=Jusqu''à 20 adresses de dépôt
+marketing.features.major.1.description.list.3=Répartir les dépôts dans le temps
+marketing.features.major.1.description.list.4=Répartir les paiements sortants dans le temps
+marketing.features.major.1.description.para.1=Nous vous informons d''avance des frais de service exacts avant d''envoyer un Bitcoin au Mixer, il n''y a donc pas de surprises cachées.
+
+marketing.features.major.2.title=Lettre de garantie
+marketing.features.major.2.description.para.1=Nous fournissons une lettre de garantie aux formats texte et PDF. Nous les signons numériquement pour prouver qu''ils nous viennent.
+marketing.features.major.2.description.para.2=Si nous nous enfuyions avec les fonds d''un utilisateur une seule fois et que cela devenait public, ce serait la fin de notre réputation et personne ne nous utiliserait plus jamais.
+
+marketing.features.major.3.title=Assistance et communauté
+marketing.features.major.3.description.para.1=Si vous rencontrez des problèmes de quelque nature que ce soit, nous répondons rapidement aux e-mails envoyés à <a href="mailto:support@anonymixer.com" rel="noreferrer">support@anonymixer.com</a>
+marketing.features.major.3.description.para.2=Nous sommes sur <a href="https://bitcointalk.org/index.php?topic=5269927.0" target="_blank" rel="noreferrer">Bitcoin Talk</a> et <a href="https://twitter.com/anonymixer" target="_blank" rel="noreferrer">Twitter</a>.
+marketing.features.major.3.description.para.3=Venez dire bonjour!
+
+marketing.features.minor.1.title=Tor
+marketing.features.minor.1.description=L''adresse de l''oignon est disponible
+
+marketing.features.minor.2.title=Pas de JS = pas de problème
+marketing.features.minor.2.description=Fonctionne avec ou sans JavaScript
+
+marketing.features.minor.3.title=Pas de CDN
+marketing.features.minor.3.description=Nous n''utilisons pas de CDN ou Google Analytics. <a href="https://bitcointalk.org/index.php?topic=5247838" target="_blank" rel="noreferrer">j''ai trouvé pourquoi</a>
+
+marketing.features.minor.4.title=Cryptage le plus dur
+marketing.features.minor.4.description=Nous avons une classification <a href="https://www.ssllabs.com/ssltest/analyze.html?d=anonymixer.com" target="_blank" rel="noreferrer">SSL Labs Grade A</a>
+
+marketing.features.minor.5.title=Compatible avec le téléphone
+marketing.features.minor.5.description=Fonctionne sur les téléphones intelligents et les tablettes
+
+marketing.features.minor.6.title=Pas de HTTP
+marketing.features.minor.6.description=Nous bloquons HTTP. Pas de trafic non chiffré
+
+marketing.mix.change.coins.title=Mélanger des pièces de monnaie Wasabi
+marketing.mix.change.coins.para.1=Mélangez en toute sécurité des pièces de monnaie <q>déchets toxiques</q> produites à partir de pièces de monnaie Wasabi!
+marketing.mix.change.coins.para.2=Consolidez les sorties de changement en une seule pièce.
+
+marketing.find.out.more=En savoir plus
+
+#############################################################################
+## Footer
+#############################################################################
+
+footer.hot.maximum=Maximum d''envoi à chaud
+footer.cold.maximum=Maximum d''envoi à froid
+footer.service.status=État du service
+
+footer.links.title=Liens
+footer.links.pgpkey=Clé PGP
+footer.links.faq=FAQ
+footer.links.canary=Canari
+footer.links.email=Email:
+
+footer.links.clearnet.address=Adresse Clearnet
+footer.links.onion.address=Adresse d''oignon
+footer.copyright=Copyright © {0} <a href="/">Anonymixer</a>. Tous les droits sont réservés.
+
+
+#############################################################################
+## Outputs Screen
+#############################################################################
+outputs.pretitle=Commencer un nouveau Mélanger Bitcoin
+outputs.title=Entrez les adresses de sortie
+
+address.receiving.bitcoin=Adresse recevant le Bitcoin nettoyé
+
+valid.bitcoin.address=Adresse Bitcoin valide
+invalid.bitcoin.address=Adresse Bitcoin invalide
+missing.output.address=Veuillez saisir l''adresse de sortie
+duplicate.output.address=Adresse de sortie dupliquée
+update.this.screen=Mettre à jour cet écran
+remove.address=supprimer cette adresse
+
+add.output.address=Ajouter une adresse de sortie
+
+missing.output.amount=Veuillez saisir le montant
+amount.too.big=Votre limite maximale pour le moment est de {0} BTC. Veuillez réduire le total de Bitcoin.
+
+address.type.P2SH=(P2SH)
+address.type.P2PKH=(P2PKH)
+address.type.Bech32=(Bech32)
+address.type.Unknown=(Unknown)
+
+menu.outputs=Les sorties
+menu.processing=Mélanger
+
+output.address=Adresse de sortie
+output.address.plural=Adresses de sortie
+
+show.percentage.distributions=Afficher les distributions en pourcentage
+percentage.distribution=Distribution en pourcentage
+amount.btc=Montant (BTC)
+outputs.already.confirmed=Outputs are already Confirmed. Can not add or change them.
+#############################################################################
+
+#############################################################################
+## Confirm Screen
+#############################################################################
+confirm.pretitle=Revérifier votre Mélanger
+confirm.title=Confirmation
+breakdown.costs.title=Répartition des coûts
+breakdown.costs.detail=Veuillez voir une ventilation complète des coûts ci-dessous, le total général de ce que vous devez envoyer au mélangeur est indiqué en bas. Une fois que vous êtes satisfait, veuillez appuyer sur Confirmer.
+total.output=Sortie totale
+service.fees=Frais de service
+confirm.delay=Retard en quelques minutes
+will.receive=recevra {0} BTC
+we.take={0} BTC
+
+bitcoin.network.fee=Frais de réseau Bitcoin
+mining.fees.are=Les frais miniers sont
+
+grand.total=Somme finale
+grand.total.detail=Le montant total de Bitcoin dont vous aurez besoin pour envoyer le mélangeur
+
+enter.valid.number=S''il vous plait, entrez un nombre valide
+
+anonymixer.fee=Frais de Anonymixer
+
+warning.quote.expired=Le devis précédent a expiré. Veuillez revérifier les frais ci-dessous et confirmer
+warning.quote.delaysNotMatching=Les valeurs des délais en minutes ont été modifiées. Veuillez revérifier les frais ci-dessous et confirmer
+#############################################################################
+
+#############################################################################
+## Processing Screen
+#############################################################################
+processing.pretitle=Traitement de votre Mélanger 
+processing.title=Mélanger
+
+processing.payment.waiting=En attente de paiement avec montant
+processing.payment.received=Paiement reçu avec montant
+
+letter.of.guarantee=Lettre de garantie
+total.bitcoin.received=Bitcoin total reçu
+download.pdf=Télécharger le PDF
+download.text=Télécharger le fichier texte
+
+confirmed.payments=Paiements confirmés
+incoming.payments=Paiements entrants
+
+time.day.single=jour
+time.day.plural=jours
+time.hour.single=heure
+time.hour.plural=heures
+time.minute.single=minute
+time.minute.plural=minutes
+time.second.single=seconde
+time.second.plural=secondes
+time.ago=auparavant
+time.now=maintenant
+time.not.yet.scheduled=Pas encore programmé
+
+processing.please.now.send=Veuillez maintenant envoyer
+processing.all.btc.received=Tous les Bitcoins reçus
+
+processing.add.deposit.address=Ajouter une adresse de dépôt
+
+digitally.signed.hot=Signé numériquement par Hot Wallet
+digitally.signed.cold=Signé numériquement par Cold Wallet
+transaction.broadcast=Diffusion de transaction
+outgoing.transaction=Transaction sortante
+
+mixer.deposit.remove=Supprimer l''adresse de dépôt du mélangeur
+
+mixer.deposit.received=Reçu
+mixer.deposit.confirmations=Confirmations
+
+payment.received=Paiement reçu
+bitcoin.transaction.id=ID de transaction Bitcoin
+mixer.deposit.address=Adresse de dépôt
+mixer.deposit.amount=Montant du dépôt
+
