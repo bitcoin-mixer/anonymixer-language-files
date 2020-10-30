@@ -1,0 +1,246 @@
+# Generic
+unknown=Unknown
+continue=Continue
+confirm=Confirm
+
+status=Status
+scheduled=Scheduled
+
+total.bitcoin=Total Bitcoin
+total.fiat=Total Fiat (Approximate)
+
+thankyou=Thank you
+approx.short=Approx
+BTC=BTC
+close=Close
+
+error.title=Warning:
+warning.title=Note
+
+copy.to.clipboard=Copy to clipboard
+
+javascript.disabled.surprised.1=Holy guacamole!
+javascript.disabled.surprised.2=Looks like you''ve disabled JavaScript!
+javascript.disabled.enable.1=We recommend enabling it for this site.
+javascript.disabled.enable.2=Click here to find out why
+javascript.disabled.getrid.1=To get rid of this message and to continue without JavaScript,
+javascript.disabled.getrid.2=Click here for a No-JavaScript version 
+
+start.new.mix=Start a new Mix!
+back.to.mix=Back to Mix
+help.center=Help Center
+
+entry.page.title=Anonymixer - Anonymous Bitcoin Mixer
+entry.page.description=Stay anonymous and invisible from Blockchain Surveillance with the most advanced Bitcoin Mixer.
+
+#############################################################################
+## Front Page Marketing
+#############################################################################
+marketing.hero.header.1=Anonymous Bitcoin Mixer
+marketing.hero.header.2=We make your Bitcoin Anonymous
+
+marketing.hero.feature.1.title=No Minimum
+marketing.hero.feature.1.description=Mix just 1 Satoshi or 0.00000001 BTC
+
+marketing.hero.feature.2.title=No Logs
+marketing.hero.feature.2.description=We have a 100% No-Logs Policy
+
+marketing.hero.feature.3.title=Low Fees
+marketing.hero.feature.3.description=We charge just 1 - 2% to mix Bitcoin
+
+marketing.cloud.title=Beat Blockchain Surveillance
+markting.cloud.para.1=Companies like Chainalysis invade your privacy by providing blockchain surveillance data and analysis to Governments, Exchanges and Financial Institutions.
+markting.cloud.para.2=For years, these companies have spared no expense perfecting software to track Bitcoin and Bitcoin Users, turning mass surveillance into a fine art.
+markting.cloud.para.3=With Anonymixer, you can 100% protect your privacy and escape this intrusive surveillance, even to the extent that <strong>no-one will be able to tell you used a Bitcoin Mixer</strong> in the first place.
+
+marketing.explanation.title.1=Bitcoin Teleportation
+marketing.explanation.para.1=Alice wants to pay Bob 0.5 BTC, anonymously.
+marketing.explanation.para.2=Alice sends a payment of 0.2 BTC followed by 0.3 BTC to Anonymixer''s Deposit Wallet.
+marketing.explanation.para.3=Then, Anonymixer sends Bob 0.5 BTC from a separate Wallet that is entirely unconnected from either of Alice''s payments.
+
+marketing.explanation.title.2=Blockchain Analysis is rendered useless
+
+marketing.explanation.para.4=<strong>Amount Decorrelation</strong> :- Alice made two regular Bitcoin Payments to two anonymous Bitcoin Addresses, neither of which can be correlated with the 0.5 BTC Bob finally received.
+marketing.explanation.para.5=<strong>Time Decorrelation</strong> :- Alice chose exactly when each of her individual deposits were sent. Alice also chose exactly when Bob finally got paid.
+marketing.explanation.para.6=<strong>Cluster Decorrelation</strong> :- The Wallet (or Cluster) Alice sent her Bitcoin to, itself is entirely unconnected to the Wallet which paid Bob.
+marketing.explanation.para.7=All Transactions look like regular payments between users on the Blockchain. No-one can tell a Bitcoin Mixer has been used.
+
+marketing.explanation.anim.sender=Original Sender (Alice)
+marketing.explanation.anim.recipient=Recipient (Bob)
+marketing.explanation.anim.deposit.wallet=Deposit Wallet
+marketing.explanation.anim.sending.wallet=Sending Wallet
+marketing.explanation.anim.coin.1=0.2 BTC
+marketing.explanation.anim.coin.2=0.3 BTC
+marketing.explanation.anim.coin.3=0.5 BTC
+
+marketing.features.major.1.title=Full Mixing Control
+marketing.features.major.1.description.list.1=Up to 20 Output Addresses
+marketing.features.major.1.description.list.2=Up to 20 Deposit Addresses
+marketing.features.major.1.description.list.3=Spread deposits over time
+marketing.features.major.1.description.list.4=Spread outgoing payments over time
+marketing.features.major.1.description.para.1=We let you know exact service fees up-front before you send any Bitcoin to the Mixer, so there are no hidden surprises.
+
+marketing.features.major.2.title=Letter of Guarantee
+marketing.features.major.2.description.para.1=We provide a Letter of Guarantee in both Text and PDF formats. We Digitally Sign these to "prove" they''re from us.
+marketing.features.major.2.description.para.2=If we ran off with a user''s funds <strong>just once</strong> and this became publicly known, that would be the end of our reputation and no-one would use us ever again.
+
+marketing.features.major.3.title=Support & Community
+marketing.features.major.3.description.para.1=If you face any problems of any kind, we respond quickly to emails sent to <a href="mailto:support@anonymixer.com">support@anonymixer.com</a>
+marketing.features.major.3.description.para.2=We''re on <a href="https://bitcointalk.org/index.php?topic=5269927.0" target="_blank" rel="noreferrer">Bitcoin Talk</a> and <a href="https://twitter.com/anonymixer" target="_blank" rel="noreferrer">Twitter</a>.
+marketing.features.major.3.description.para.3=Come say Hello!
+
+marketing.features.minor.1.title=Tor Support
+marketing.features.minor.1.description=Onion Address available 
+
+marketing.features.minor.2.title=No JS = No Problem
+marketing.features.minor.2.description=Works with or without JavaScript
+
+marketing.features.minor.3.title=No CDNs
+marketing.features.minor.3.description=We don''t use CDNs or Google Analytics. <a href="https://bitcointalk.org/index.php?topic=5247838" target="_blank" rel="noreferrer">Find out why</a>
+
+marketing.features.minor.4.title=Hardest Encryption
+marketing.features.minor.4.description=We have a <a href="https://www.ssllabs.com/ssltest/analyze.html?d=anonymixer.com" target="_blank" rel="noreferrer">SSL Labs Grade A</a> rating
+
+marketing.features.minor.5.title=Phone Friendly
+marketing.features.minor.5.description=Works on Smart Phones and Tablets
+
+marketing.features.minor.6.title=No HTTP
+marketing.features.minor.6.description=We block HTTP. No unencrypted traffic
+
+marketing.mix.change.coins.title=Mix Wasabi Change Coins
+marketing.mix.change.coins.para.1=Safely mix <q>Toxic Waste</q> Change Coins produced from Wasabi CoinJoins!
+marketing.mix.change.coins.para.2=Consolidate change outputs into one coin.
+
+marketing.find.out.more=Find out more
+
+#############################################################################
+## Footer
+#############################################################################
+
+footer.hot.maximum=Hot Trade Maximum
+footer.cold.maximum=Cold Trade Maximum
+footer.service.status=Service Status
+
+footer.links.title=Links
+footer.links.pgpkey=PGP Key
+footer.links.faq=FAQ
+footer.links.canary=Canary
+footer.links.email=Email:
+
+footer.links.clearnet.address=Clearnet Address
+footer.links.onion.address=Onion Address
+footer.copyright=Copyright © {0} <a href="/">Anonymixer</a>. All rights reserved.
+
+#############################################################################
+## Outputs Screen
+#############################################################################
+outputs.pretitle=Start a new Bitcoin Coinmix
+outputs.title=Enter Output Addresses
+
+address.receiving.bitcoin=Address receiving the cleaned Bitcoin
+
+valid.bitcoin.address=Valid Bitcoin Address
+invalid.bitcoin.address=Invalid Bitcoin Address
+missing.output.address=Please enter Output Address
+duplicate.output.address=Duplicate Output Address
+update.this.screen=Update this screen
+remove.address=remove this address
+
+add.output.address=Add Output Address
+
+missing.output.amount=Please enter amount
+amount.too.big=Your maximum limit right now is {0} BTC. Please reduce the total Bitcoin.
+
+address.type.P2SH=(P2SH)
+address.type.P2PKH=(P2PKH)
+address.type.Bech32=(Bech32)
+address.type.Unknown=(Unknown)
+
+menu.outputs=Outputs
+menu.processing=Mix
+
+output.address=Output Address
+output.address.plural=Output Addresses
+
+show.percentage.distributions=Show percentage distributions
+percentage.distribution=Percentage Distribution
+amount.btc=Amount (BTC)
+outputs.already.confirmed=Outputs are already Confirmed. Can not add or change them.
+#############################################################################
+
+#############################################################################
+## Confirm Screen
+#############################################################################
+confirm.pretitle=Double-checking your mix
+confirm.title=Confirmation
+breakdown.costs.title=Breakdown of costs
+breakdown.costs.detail=Please see an up-front and complete breakdown of costs below, the grand total of what you need to send to the mixer is shown at the bottom. Once you are happy, please press Confirm.
+total.output=Total Output
+service.fees=Service Fees
+confirm.delay=Delay in Minutes
+will.receive=will receive {0} BTC
+we.take={0} BTC
+
+bitcoin.network.fee=Bitcoin Network Fee
+mining.fees.are=Mining Fees are
+
+grand.total=Grand Total
+grand.total.detail=The total amount of Bitcoin you will need to send the mixer
+
+enter.valid.number=Please enter a valid number
+
+anonymixer.fee=Anonymixer Fee
+
+warning.quote.expired=The previous Quote timed out. Please recheck the fees below and Confirm
+warning.quote.delaysNotMatching=Delays in Minutes values changed. Please recheck the fees below and Confirm
+#############################################################################
+
+#############################################################################
+## Processing Screen
+#############################################################################
+processing.pretitle=Processing your mix 
+processing.title=Processing
+
+processing.payment.waiting=Waiting for payment with amount
+processing.payment.received=Received payment with amount
+
+letter.of.guarantee=Letter of Guarantee
+total.bitcoin.received=Total Bitcoin received
+download.pdf=Download PDF
+download.text=Download Text file
+
+confirmed.payments=Confirmed Payments
+incoming.payments=Incoming Payments
+
+time.day.single=day
+time.day.plural=days
+time.hour.single=hour
+time.hour.plural=hours
+time.minute.single=minute
+time.minute.plural=minutes
+time.second.single=second
+time.second.plural=seconds
+time.ago=ago
+time.now=now
+time.not.yet.scheduled=Not yet Scheduled
+
+processing.please.now.send=Please Now Send
+processing.all.btc.received=All Bitcoin Received
+
+processing.add.deposit.address=Add Deposit Address
+
+digitally.signed.hot=Digitally signed by Hot Wallet
+digitally.signed.cold=Digitally signed by Cold Wallet
+transaction.broadcast=Transaction Broadcast
+outgoing.transaction=Outgoing Transaction
+
+mixer.deposit.remove=Remove Mixer Deposit Address
+
+mixer.deposit.received=Received
+mixer.deposit.confirmations=Waiting for Confirmation
+
+payment.received=Payment Received
+bitcoin.transaction.id=Bitcoin Transaction ID
+mixer.deposit.address=Mixer Deposit Address
+mixer.deposit.amount=Mixer Deposit Amount
+
