@@ -129,6 +129,8 @@ footer.links.email=อีเมล
 
 footer.links.clearnet.address=ที่อยู่ เคลียร์เน็ท
 footer.links.onion.address=ที่อยู่หัวหอม
+footer.onion.v2=หัวหอม V2
+footer.onion.v3=หัวหอม V3
 footer.copyright=สงวนลิขสิทธิ์ © {0} <a href="/">Anonymixer</a>
 
 #############################################################################
@@ -240,3 +242,8 @@ bitcoin.transaction.id=รายการชื้อขายบิทคอย
 mixer.deposit.address=ที่อยู่การฝาก
 mixer.deposit.amount=จำนวนรวมฝาก
 
+processing.spread.the.word.title=พวกเราต้องการให้คุณช่วย
+processing.spread.the.word.para.1=Anonymixerเปิดการใช้งานในเดือน สิงหาคม2020 หลังจากที่ใช้เวลาสร้างโปรแกรม 18เดือน
+processing.spread.the.word.para.2=เราต้องการลูกค้าเข้ามาใช้เวปไซต์ของเราเยอะๆเพื่อเวปไซต์ของเราจะได้ทำงานต่อไป
+processing.spread.the.word.para.3=เราต้องการให้มีลูกค้าเพิ่มขึ้นและเราอยากให้เวปไซต์ของเราแข็งแกร่งและมีคุณภาพเพิ่มขึ้นเรื่อยๆและเราอยากให้เวปไซต์ยังมีการใช้งานและทำงานต่อไปเรื่อยๆคุณสามารถช่วยเราแชร์เวปไซต์ของเราในอินเตอร์เน็ตหรือให้โลกรู้ว่าเวปไซต์เราดีอย่างไร เราจะขอบคุณพระคุณอย่างสูง
+processing.spread.the.word.twitter.follow=คุณสามารถติดตามเราได้ที่
