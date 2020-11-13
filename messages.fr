@@ -129,6 +129,8 @@ footer.links.email=Email:
 
 footer.links.clearnet.address=Adresse Clearnet
 footer.links.onion.address=Adresse d''oignon
+footer.onion.v2=Oignon V2
+footer.onion.v3=Oignon V3
 footer.copyright=Copyright © {0} <a href="/">Anonymixer</a>. Tous les droits sont réservés.
 
 
@@ -245,3 +247,8 @@ bitcoin.transaction.id=ID de transaction Bitcoin
 mixer.deposit.address=Adresse de dépôt
 mixer.deposit.amount=Montant du dépôt
 
+processing.spread.the.word.title=Nous avons besoin de votre aide
+processing.spread.the.word.para.1=Anonymixer a été lancé en août 2020 après 18 mois de développement logiciel.
+processing.spread.the.word.para.2=Nous avons besoin de plus de clients pour devenir plus forts et pour continuer notre travail sur ce projet.
+processing.spread.the.word.para.3=Si vous pensez que Anonymixer vous a aidé, pensez à partager un lien vers nous ou à parler de nous sur Twitter, Facebook ou des forums tels que Reddit ou Bitcoin Talk. Ou même simplement dire à vos amis sur Signal ou Telegram.
+processing.spread.the.word.twitter.follow=merci de nous suivre sur Twitter
