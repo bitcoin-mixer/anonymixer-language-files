@@ -129,6 +129,8 @@ footer.links.email=Email:
 
 footer.links.clearnet.address=Clearnet Address
 footer.links.onion.address=Onion Address
+footer.onion.v2=Onion V2
+footer.onion.v3=Onion V3
 footer.copyright=Copyright © {0} <a href="/">Anonymixer</a>. All rights reserved.
 
 #############################################################################
@@ -244,3 +246,8 @@ bitcoin.transaction.id=Bitcoin Transaction ID
 mixer.deposit.address=Mixer Deposit Address
 mixer.deposit.amount=Mixer Deposit Amount
 
+processing.spread.the.word.title=We need your help
+processing.spread.the.word.para.1=Anonymixer was launched in August 2020 after 18 months of solid development.
+processing.spread.the.word.para.2=We need more customers to become stronger and to continue our work on this project.
+processing.spread.the.word.para.3=If you feel that Anonymixer has helped you, please consider sharing a link to us or talking about us on Twitter, Facebook or Forums such as Reddit or Bitcoin Talk. Or even just tell your friends on Signal or Telegram.
+processing.spread.the.word.twitter.follow=please give us a follow
