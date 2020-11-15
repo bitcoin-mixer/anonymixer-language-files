@@ -13,7 +13,7 @@ marketing.cloud.title=Beat Blockchain Surveillance
 marketing.cloud.title=หลบเลี่ยงการตรวจตราบล็อกเซน
 ```
 
-If the a apostrophe character is used `'`, it needs to be escaped by adding another apostrophe character along with it.
+If the apostrophe character is used `'`, it needs to be escaped by adding another apostrophe character along with it.
 
 ```
 # In (messages.nl), the Phrase "Geen CDN's"
