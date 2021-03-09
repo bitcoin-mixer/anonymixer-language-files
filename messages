@@ -32,6 +32,7 @@ help.center=Help Center
 
 entry.page.title=Anonymixer - Anonymous Bitcoin Mixer
 entry.page.description=Stay anonymous and invisible from Blockchain Surveillance with the most advanced Bitcoin Mixer.
+entry.page.social.image=https://anonymixer.com/img/custom/anonymixer-bitcoin-mixer.jpg
 
 #############################################################################
 ## Front Page Marketing
@@ -75,7 +76,7 @@ marketing.explanation.anim.coin.3=0.5 BTC
 
 marketing.features.major.1.title=Full Mixing Control
 marketing.features.major.1.description.list.1=Up to 20 Output Addresses
-marketing.features.major.1.description.list.2=Up to 20 Deposit Addresses
+marketing.features.major.1.description.list.2=Up to 10 Deposit Addresses
 marketing.features.major.1.description.list.3=Spread deposits over time
 marketing.features.major.1.description.list.4=Spread outgoing payments over time
 marketing.features.major.1.description.para.1=We let you know exact service fees up-front before you send any Bitcoin to the Mixer, so there are no hidden surprises.
