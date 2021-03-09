@@ -32,6 +32,7 @@ help.center=Центр помощи
 
 entry.page.title=Anonymixer - Анонимный Биткоин-миксер
 entry.page.description=Оставайтесь анонимным и незаметным для слежки за блокчейном с помощью самого продвинутого Биткойн-миксера.
+entry.page.social.image=https://anonymixer.com/img/custom/anonymixer-bitcoin-mixer-russian.jpg
 
 #############################################################################
 ## Front Page Marketing
@@ -75,7 +76,7 @@ marketing.explanation.anim.coin.3=0.5 BTC
 
 marketing.features.major.1.title=Полный Контроль Микса
 marketing.features.major.1.description.list.1=До 20 Адресов для Вывода
-marketing.features.major.1.description.list.2=До 20 Депозитных Адресов
+marketing.features.major.1.description.list.2=До 10 Депозитных Адресов
 marketing.features.major.1.description.list.3=Разделяйте депозиты по времени
 marketing.features.major.1.description.list.4=Разделяйте исходящие транзакции по времени
 marketing.features.major.1.description.para.1=Мы уведомим вас о точном размере комиссии до того, как вы отправите Биткоины в Миксер, что означает отсутствие неожиданных сюрпризов.
