@@ -1,13 +1,13 @@
 # Generic
 unknown=Onbekend
-continue=Doorgaan met
+continue=Doorgaan
 confirm=Bevestigen
 
-status=Toestand
+status=Status
 scheduled=Gepland
 
-total.bitcoin=Totaal Bitcoin
-total.fiat=Totaal Fiat (ongeveer)
+total.bitcoin=Bitcoin totaal
+total.fiat=Fiat totaal (geschat)
 
 thankyou=Dank je
 approx.short=Ongeveer
@@ -26,12 +26,12 @@ javascript.disabled.enable.2=Klik hier om erachter te komen waarom
 javascript.disabled.getrid.1=Om van deze melding af te komen en door te gaan zonder JavaScript,
 javascript.disabled.getrid.2=Klik hier voor een versie zonder JavaScript
 
-start.new.mix=Start een nieuwe mengen!
-back.to.mix=Terug naar mengen
+start.new.mix=Start een nieuwe sessie!
+back.to.mix=Terug naar mixen
 help.center=Helpcentrum
 
 entry.page.title=Anonymixer - Anonieme Bitcoin-Mixer
-entry.page.description=Blijf anoniem en onzichtbaar van Blockchain Surveillance met de meest geavanceerde Bitcoin-Mixer.
+entry.page.description=Blijf anoniem en onzichtbaar voor Blockchain inspectie met de meest geavanceerde Bitcoin-Mixer.
 
 #############################################################################
 ## Front Page Marketing
@@ -40,22 +40,22 @@ marketing.hero.header.1=Anonieme Bitcoin-Mixer
 marketing.hero.header.2=We anonimiseren uw Bitcoin
 
 marketing.hero.feature.1.title=Geen minimum
-marketing.hero.feature.1.description=Mengen 1 Satoshi of 0,00000001 BTC
+marketing.hero.feature.1.description=Meng vanaf 1 Satoshi of 0,00000001 BTC
 
-marketing.hero.feature.2.title=Geen logboeken
-marketing.hero.feature.2.description=We hebben een 100% No-Logs-beleid
+marketing.hero.feature.2.title=Geen logs
+marketing.hero.feature.2.description=We hebben een 100% Geen-Logs-beleid
 
-marketing.hero.feature.3.title=Lage kosten
-marketing.hero.feature.3.description=We rekenen slechts 1 - 2%
+marketing.hero.feature.3.title=Goedkoop
+marketing.hero.feature.3.description=We rekenen slechts 1 - 2% kosten aan
 
-marketing.cloud.title=Ontwijk Blockchain-bewaking
-markting.cloud.para.1=Bedrijven zoals Chainalysis schenden uw privacy door blockchain-surveillancegegevens en analyses te verstrekken aan overheden, beurzen en financiële instellingen.
-markting.cloud.para.2=Deze bedrijven hebben jarenlang kosten noch moeite gespaard om software te perfectioneren om Bitcoin- en Bitcoin-gebruikers te volgen, waardoor massasurveillance een kunst wordt.
-markting.cloud.para.3=Met Anonymixer kunt u uw privacy 100% beschermen en ontsnappen aan deze opdringerige bewaking, voor zover <strong>niemand zal kunnen vertellen dat u überhaupt een Bitcoin Mixer hebt gebruikt</strong>.
+marketing.cloud.title=Ontwijk Blockchain-analyse
+markting.cloud.para.1=Bedrijven zoals Chainalysis schenden uw privacy door blockchain-inspectiegegevens en analyses te verstrekken aan overheden, beurzen en financiële instellingen.
+markting.cloud.para.2=Deze bedrijven hebben jarenlang kosten noch moeite gespaard om software te perfectioneren om Bitcoin- en Bitcoin-gebruikers te volgen, waardoor massa-inspectie een kunst wordt.
+markting.cloud.para.3=Met Anonymixer kunt u uw privacy 100% beschermen en ontsnappen aan deze opdringerige bewaking, <strong>niemand zal kunnen vertellen dat u überhaupt een Bitcoin Mixer hebt gebruikt</strong>.
 
 marketing.explanation.title.1=Bitcoin Teleportatie
 marketing.explanation.para.1=Alice wil Bob anoniem 0,5 BTC betalen.
-marketing.explanation.para.2=Alice stuurt een betaling van 0,2 BTC gevolgd door 0,3 BTC naar Anonymixer''s Stort Portemonnee.
+marketing.explanation.para.2=Alice stuurt een betaling van 0,2 BTC gevolgd door 0,3 BTC naar Anonymixer''s Portemonnee.
 marketing.explanation.para.3=Vervolgens stuurt Anonymixer een betaling van 0,5 BTC naar Bob vanuit een aparte portemonnee die volledig gescheiden is van de betalingen van Alice.
 
 marketing.explanation.title.2=Blockchain-analyse wordt nutteloos
@@ -67,8 +67,8 @@ marketing.explanation.para.7=Alle transacties zien eruit als reguliere betalinge
 
 marketing.explanation.anim.sender=Oorspronkelijke afzender (Alice)
 marketing.explanation.anim.recipient=Ontvanger (Bob)
-marketing.explanation.anim.deposit.wallet=Stort portemonnee
-marketing.explanation.anim.sending.wallet=Portemonnee verzenden
+marketing.explanation.anim.deposit.wallet=Inkomende portemonnee
+marketing.explanation.anim.sending.wallet=Uitgaande portemonnee
 marketing.explanation.anim.coin.1=0,2 BTC
 marketing.explanation.anim.coin.2=0,3 BTC
 marketing.explanation.anim.coin.3=0,5 BTC
@@ -101,24 +101,24 @@ marketing.features.minor.3.description=We gebruiken geen CDN''s of Google Analyt
 marketing.features.minor.4.title=Sterkste versleuteling
 marketing.features.minor.4.description=We hebben een <a href="https://www.ssllabs.com/ssltest/analyze.html?d=anonymixer.com" target="_blank" rel="noreferrer">SSL Labs Rang A-beoordeling</a>
 
-marketing.features.minor.5.title=Telefoon vriendelijk
+marketing.features.minor.5.title=Smartphone vriendelijk
 marketing.features.minor.5.description=Werkt op smartphones en tablets
 
 marketing.features.minor.6.title=Geen HTTP
-marketing.features.minor.6.description=We blokkeren HTTP. Geen niet-versleuteld verkeer
+marketing.features.minor.6.description=We blokkeren HTTP. Geen onversleuteld verkeer
 
-marketing.mix.change.coins.title=Meng Wasabi en Samourai Wallet giftige change munten
-marketing.mix.change.coins.para.1=Meng veilig giftige change gemaakt van Wasabi en Samourai CoinJoins!
-marketing.mix.change.coins.para.2=Consolideer meerdere kleine Bitcoin Munten in één Munten.
+marketing.mix.change.coins.title=Meng door Wasabi en Samourai Wallet besmet wisselgeld
+marketing.mix.change.coins.para.1=Meng veilig besmet wisselgeld gemaakt door Wasabi en Samourai CoinJoins!
+marketing.mix.change.coins.para.2=Consolideer meerdere kleine Bitcoin outputs in één output.
 
-marketing.find.out.more=Meer te weten komen
+marketing.find.out.more=Om meer te weten komen
 
 #############################################################################
 ## Footer
 #############################################################################
 
-footer.hot.maximum=Heet Handel Maximaal
-footer.cold.maximum=Koude Handel Maximaal
+footer.hot.maximum=Maximale online portemonnee
+footer.cold.maximum=Maximale offline portemonnee
 footer.service.status=Service Status
 
 footer.links.title=Links
@@ -137,21 +137,21 @@ footer.copyright=Auteursrechten © {0} <a href="/">Anonymixer</a>. Alle rechten 
 ## Outputs Screen
 #############################################################################
 outputs.pretitle=Start een nieuwe Bitcoin-mix
-outputs.title=Voer uitvoeradressen in
+outputs.title=Geef uw ontvangstadres in
 
-address.receiving.bitcoin=Adres dat de opgeschoonde Bitcoin ontvangt
+address.receiving.bitcoin=Adres dat de gemixte Bitcoin ontvangt
 
 valid.bitcoin.address=Geldig Bitcoin-adres
 invalid.bitcoin.address=Ongeldig Bitcoin-adres
 missing.output.address=Voer het Uitvoeradres in
-duplicate.output.address=Dubbel Uitvoeradres
+duplicate.output.address=Verdubbel Uitvoeradres
 update.this.screen=Update dit scherm
 remove.address=verwijder dit adres
 
 add.output.address=Voeg Uitvoeradres toe
 
 missing.output.amount=Voer een bedrag in
-amount.too.big=De maximale limiet op dit moment is {0} BTC. Verlaag de totale Bitcoin.
+amount.too.big=De maximale limiet op dit moment is {0} BTC. Verlaag het totaal aantal Bitcoin.
 
 address.type.P2SH=(P2SH)
 address.type.P2PKH=(P2PKH)
@@ -176,7 +176,7 @@ outputs.already.confirmed=Uitgangen zijn al bevestigd. Kan ze niet toevoegen of 
 confirm.pretitle=Dubbelchecken van uw bestelling
 confirm.title=Bevestiging
 breakdown.costs.title=Uitsplitsing van kosten
-breakdown.costs.detail=Zie hieronder voor een volledig overzicht van de kosten, het totaalbedrag van wat u naar de mixer moet sturen, wordt onderaan weergegeven. Als u tevreden bent, drukt u op Bevestigen.
+breakdown.costs.detail=Zie hieronder voor een volledig overzicht van de kosten, het totaalbedrag van wat u naar de mixer moet sturen wordt onderaan weergegeven. Als u akkoord bent, drukt u op Bevestigen.
 total.output=Totale Uitgaand
 service.fees=Servicekosten
 confirm.delay=Vertraging in minuten
@@ -184,23 +184,23 @@ will.receive=ontvangt {0} BTC
 we.take={0} BTC
 
 bitcoin.network.fee=Bitcoin-netwerkkosten
-mining.fees.are=Mijnbouwkosten zijn
+mining.fees.are=Miningkosten
 
 grand.total=Eindtotaal
-grand.total.detail=De totale hoeveelheid Bitcoin die u nodig heeft om de mixer op te sturen
+grand.total.detail=De totale hoeveelheid Bitcoin die u nodig heeft om de naar mixer op te sturen
 
-enter.valid.number=Gelieve een geldig nummer invoeren
+enter.valid.number=Gelieve een geldig nummer in te voeren
 
 anonymixer.fee=Anonymixer Kosten
 
-warning.quote.expired=Het vorige citaat is verlopen. Controleer de onderstaande tarieven opnieuw en bevestig
-warning.quote.delaysNotMatching=Waarden voor vertragingen in minuten zijn gewijzigd. Controleer de onderstaande tarieven opnieuw en bevestig
+warning.quote.expired=Het vorige offerte is verlopen. Controleer de onderstaande waarden en bevestig opnieuw
+warning.quote.delaysNotMatching=Waarden voor vertragingen in minuten zijn gewijzigd. Controleer de onderstaande waarden opnieuw en bevestig
 #############################################################################
 
 #############################################################################
 ## Processing Screen
 #############################################################################
-processing.pretitle=Verwerken van uw mengen
+processing.pretitle=Verwerken van uw mix
 processing.title=Verwerken
 
 processing.payment.waiting=Wachten op betaling met bedrag
@@ -231,9 +231,9 @@ processing.all.btc.received=Alle Bitcoin ontvangen
 
 processing.add.deposit.address=Voeg een stortingsadres toe
 
-digitally.signed.hot=Digitaal ondertekend door Heet Portemonnee
-digitally.signed.cold=Digitaal ondertekend door Koude Portemonnee
-transaction.broadcast=Transactie-uitzending
+digitally.signed.hot=Digitaal ondertekend door Online Portemonnee
+digitally.signed.cold=Digitaal ondertekend door Offline Portemonnee
+transaction.broadcast=Transactie-verzending
 outgoing.transaction=Uitgaande transactie
 
 mixer.deposit.remove=Verwijder het stortingsadres van de mixer
