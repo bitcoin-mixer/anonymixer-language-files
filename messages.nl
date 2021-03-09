@@ -75,7 +75,7 @@ marketing.explanation.anim.coin.3=0,5 BTC
 
 marketing.features.major.1.title=Volledige mengcontrole
 marketing.features.major.1.description.list.1=Maximaal 20 uitgangsadressen
-marketing.features.major.1.description.list.2=Maximaal 20 aanbetalingsadressen
+marketing.features.major.1.description.list.2=Maximaal 10 aanbetalingsadressen
 marketing.features.major.1.description.list.3=Verspreid stortingen in de tijd
 marketing.features.major.1.description.list.4=Verspreid uitgaande betalingen over de tijd
 marketing.features.major.1.description.para.1=We laten u de exacte servicekosten van tevoren zien, voordat u geld naar de mixer stuurt, zodat er geen verborgen verrassingen zijn.
