@@ -75,7 +75,7 @@ marketing.explanation.anim.coin.3=0,5 BTC
 
 marketing.features.major.1.title=Contrôle complet du mixage
 marketing.features.major.1.description.list.1=Jusqu''à 20 adresses de sortie
-marketing.features.major.1.description.list.2=Jusqu''à 20 adresses de dépôt
+marketing.features.major.1.description.list.2=Jusqu''à 10 adresses de dépôt
 marketing.features.major.1.description.list.3=Répartir les dépôts dans le temps
 marketing.features.major.1.description.list.4=Répartir les paiements sortants dans le temps
 marketing.features.major.1.description.para.1=Nous vous informons d''avance des frais de service exacts avant d''envoyer un Bitcoin au Mixer, il n''y a donc pas de surprises cachées.
@@ -101,7 +101,7 @@ marketing.features.minor.3.description=Nous n''utilisons pas de CDN ou Google An
 marketing.features.minor.4.title=Cryptage le plus dur
 marketing.features.minor.4.description=Nous avons une classification <a href="https://www.ssllabs.com/ssltest/analyze.html?d=anonymixer.com" target="_blank" rel="noreferrer">SSL Labs Grade A</a>
 
-marketing.features.minor.5.title=Compatible avec le téléphone
+marketing.features.minor.5.title=Compatible avec téléphones
 marketing.features.minor.5.description=Fonctionne sur les téléphones intelligents et les tablettes
 
 marketing.features.minor.6.title=Pas de HTTP
